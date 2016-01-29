@@ -1,2 +1,2 @@
-# candidate
-Provision to store candidate details.
+#Trophiod.
+PHP Portal to manage people's directory.
